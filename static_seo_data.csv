@@ -1,0 +1,2 @@
+url,statuscode,title,meta-description,h1,meta-robots,canonical
+https://www.example.de/,200,this is your html title,insert meta-description here,insert h1 here,"index, follow",https://www.example.de/
